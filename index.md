@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+---
+layout: home
+title: 写在前面
+---
 
-You can use the [editor on GitHub](https://github.com/yangshuo2020/yangshuo2020.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+使用*GitHub Pages*搭建的简易静态博客,用于记录研究生学习过程中遇到的问题和可行的解决方法,包括常见环境工具的安装使用,文献论文阅读记录,专业基础和读书笔记等等.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+使用格式灵巧的markdown文本,`jekyll`作为渲染引擎,可以输出较为美观的web页面.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yangshuo2020/yangshuo2020.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+目前正处于项目的起步阶段,尚无一个整体的布局设计, 内容会显得有一些乱.后面会在优化布局设计和页面美观上做改进优化的尝试.
